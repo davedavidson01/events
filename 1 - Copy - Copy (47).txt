@@ -1,27 +1,24 @@
-Wednesday 13th
-
-FUBO 01 / EVENTS 01 - 17:45	Shakhtar Donetsk vs Celtic			
-FUBO 01 / EVENTS 01 - 20:00	Rangers vs Napoli					
-FUBO 02 / EVENTS 02 - 20:00	Manchester City vs Borussia Dortmund
-FUBO 03 / EVENTS 03 - 20:00	Chelsea vs Salzburg					
-FUBO 04 / EVENTS 04 - 20:00	Real Madrid vs RB Leipzig			
-FUBO 05 / EVENTS 05 - 20:00	Maccabi Haifa vs PSG				
-FUBO 06 / EVENTS 06 - 20:00	Juventus vs Benfica					
-FUBO 07 / EVENTS 07 - 20:00	København vs Sevilla				
-FUBO 08 / EVENTS 08 - 17:45	Milan vs Dinamo Zagreb				
-
 Thursday 14th
+
+FUBO 01 - 17:45 Sheriff vs Manchester United 
+FUBO 02 - 17:45 Midtjylland vs Lazio 
+FUBO 03 - 17:45 Feyenoord vs Sturm Graz 
+FUBO 04 - 17:45 Monaco vs Ferencváros 
 
 EVENTS 01 - 17:45 Sheriff Tiraspol v Manchester United	
 EVENTS 02 - 17:45 Gent v Shamrock Rovers				
 EVENTS 03 - 17:45 Real Sociedad v Omonia Nicosia		
-EVENTS 04 - 17:45 Midtjylland v Lazio					
+EVENTS 04 - 17:45 Midtjylland v Lazio		
+
+FUBO 01 - 20:00 Roma vs HJK 
+FUBO 02 - 20:00 Silkeborg vs West Ham United 
 
 EVENTS 01 - 20:00 Silkeborg v West Ham United			
 EVENTS 02 - 20:00 Roma v HJK Helsinki					
 EVENTS 03 - 20:00 Istanbul Basaksehir v Fiorentina		
 EVENTS 04 - 20:00 Rennes v Fenerbahce					
-EVENTS 05 - 20:00 RFS v Hearts		
+EVENTS 05 - 20:00 RFS v Hearts							
+
 
 EVENTS ARE UPDATED THROUGHOUT THE DAY. 
 PLEASE CHECK BACK BEFORE THE EVENT IS SCHEDULED TO START
