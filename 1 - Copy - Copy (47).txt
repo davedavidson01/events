@@ -18,6 +18,7 @@ EVENTS 10 - LIV GOLF
 
 Sunday 18th
 FUBO 01 - 01:00	Boxing: Canelo v GGG
+FUBO 03 - 01:00	Boxing: Canelo v GGG
 FUBO 02 - 00:00 UFC: Sandhagen vs. Song Main Card
 
 EVENTS 02 - 01:00 Boxing: Canelo v GGG
