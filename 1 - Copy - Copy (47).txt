@@ -1,17 +1,36 @@
 Saturday 17th
-FUBO 01 / EVENTS 01 - 12:30	Wolverhampton Wanderers vs Manchester City
-FUBO 01 / EVENTS 01 - 15:00	Newcastle United vs AFC Bournemouth
-FUBO 01 / EVENTS 01 - 17:30	Tottenham Hotspur vs Leicester City
+FUBO 01 - 12:30	Wolverhampton Wanderers vs Manchester City
+FUBO 03 - 12:30	Wolverhampton Wanderers vs Manchester City
+FUBO 02 - 12:30 EFL: Swansea City vs Hull City
+FUBO 01 - 15:00	Newcastle United vs AFC Bournemouth
+FUBO 03 - 15:00	Newcastle United vs AFC Bournemouth
+FUBO 02 - 15:00 EFL: Watford vs Sunderland
+FUBO 01 - 17:30	Tottenham Hotspur vs Leicester City
+FUBO 03 - 17:30	Tottenham Hotspur vs Leicester City
+FUBO 02 - 21:00 UFC: Sandhagen vs. Song Prelims 
 
+EVENTS 01 - 12:30 Wolverhampton Wanderers vs Manchester City
+EVENTS 01 - 15:00 Newcastle United vs AFC Bournemouth
+EVENTS 01 - 17:30 Tottenham Hotspur vs Leicester City
 EVENTS 03 - 21:00 UFC: Sandhagen vs. Song Prelims
+EVENTS 05 - 19:30 Boxing: Williamson v Benitez
+EVENTS 10 - LIV GOLF
 
 Sunday 18th
+
+FUBO 01 - 01:00	Boxing: Canelo v GGG
+FUBO 02 - 00:00 UFC: Sandhagen vs. Song Main Card
+
+EVENTS 02 - 01:00 Boxing: Canelo v GGG
 EVENTS 04 - 00:00 UFC: Sandhagen vs. Song Main Card
 
-FUBO 02 / EVENTS 02 - 01:00	Boxing: Canelo v GGG
+FUBO 01 - 12:00	Brentford vs Arsenal
+FUBO 01 - 14:15	Everton vs West Ham United
 
-FUBO 01 / EVENTS 01 - 12:00	Brentford vs Arsenal
-FUBO 01 / EVENTS 01 - 14:15	Everton vs West Ham United
+EVENTS 01 - 12:00	Brentford vs Arsenal
+EVENTS 01 - 14:15	Everton vs West Ham United
+
+EVENTS 10 - LIV GOLF
 
 EVENTS ARE UPDATED THROUGHOUT THE DAY. 
 PLEASE CHECK BACK BEFORE THE EVENT IS SCHEDULED TO START
