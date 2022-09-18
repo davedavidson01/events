@@ -1,18 +1,11 @@
 Sunday 18th
-FUBO 01 - 01:00	Boxing: Canelo v GGG
-FUBO 03 - 01:00	Boxing: Canelo v GGG
-FUBO 02 - 00:00 UFC: Sandhagen vs. Song 
 
-EVENTS 02 - 01:00 Boxing: Canelo v GGG
-EVENTS 03 - 00:00 UFC: Sandhagen vs. Song 
-EVENTS 04 - 00:00 UFC: Sandhagen vs. Song 
-
-FUBO 01 - 12:00	EPL: Brentford vs Arsenal
 FUBO 01 - 14:15	EPL: Everton vs West Ham United
-
-EVENTS 01 - 12:00 EPL: Brentford vs Arsenal
 EVENTS 01 - 14:15 EPL: Everton vs West Ham United
 
+FUBO 03 - 20:00 Athletico Madrid v Real Madrid
+
 EVENTS 10 - LIV GOLF
+
 EVENTS ARE UPDATED THROUGHOUT THE DAY. 
 PLEASE CHECK BACK BEFORE THE EVENT IS SCHEDULED TO START
