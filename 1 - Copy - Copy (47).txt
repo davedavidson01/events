@@ -4,9 +4,8 @@ EVENTS 01 - 18:00 MMA: Bellator 285
 
 FUBO 01 - 19:45	Germany vs Hungary
 FUBO 02 - 19:45	Italy vs England
-FUBO 03 - 19:45	Bosnia and Herzegovina vs Montenegro
-FUBO 04 - 19:45	Finland vs Romania
-FUBO 05 - 19:45	Bulgaria vs Gibraltar
+FUBO 03 - 19:45	Finland vs Romania
+FUBO 04 - 19:45	Bulgaria vs Gibraltar
 
 Sat 24th
 
