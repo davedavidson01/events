@@ -13,7 +13,7 @@ FUBO 04 - 19:45	UEFA Nations League: Serbia v Sweden
 FUBO 05 - 19:45	UEFA Nations League: Scotland v Ireland Republic 
 
 EVENTS 01 - 16:00 Boxing: Floyd Mayweather v Mikuru Asakura
-EVENTS 02 - 19:00 Boxing: Joseph Parker v Joe Joyce
+EVENTS 02 - 18:00 Boxing: Joseph Parker v Joe Joyce
 EVENTS 03 - 19:00 Boxing: Maxi Hughes v Kid Galahad
 
 
