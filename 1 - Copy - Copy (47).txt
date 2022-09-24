@@ -1,9 +1,5 @@
 Sat 24th
 
-FUBO 01 - 12:30	League One: Forest Green Rovers v Exeter City 
-FUBO 02 - 13:30	WSL: Arsenal v Tottenham Hotspur 
-FUBO 03 - 14:00	UEFA Nations League: Armenia v Ukraine 
-FUBO 01 - 15:00	League One: Peterborough United v Port Vale 
 FUBO 03 - 17:00	UEFA Nations League: Slovenia v Norway
 FUBO 01 - 17:00	UEFA Nations League: Northern Ireland v Kosovo 
 FUBO 02 - 19:00 Boxing: Maxi Hughes v Kid Galahad
@@ -14,9 +10,8 @@ FUBO 05 - 19:45	UEFA Nations League: Scotland v Ireland Republic
 
 EVENTS 01 - 18:00 Boxing: Joseph Parker v Joe Joyce
 EVENTS 02 - 19:00 Boxing: Maxi Hughes v Kid Galahad
-EVENTS 03 - 15:00 Friendly: Liverpool Legends vs Manchester United Legends
-EVENTS 04 - 18:00 Boxing: Joseph Parker v Joe Joyce (BT)
-EVENTS 05 - 18:00 Boxing: Joseph Parker v Joe Joyce (BT LQ)
+EVENTS 04 - 18:00 Boxing: Joseph Parker v Joe Joyce
+EVENTS 05 - 18:00 Boxing: Joseph Parker v Joe Joyce
 
 Sun 25th
 
