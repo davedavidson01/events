@@ -6,18 +6,19 @@ FUBO 03 - 14:00	UEFA Nations League: Armenia v Ukraine
 FUBO 01 - 15:00	League One: Peterborough United v Port Vale 
 FUBO 03 - 17:00	UEFA Nations League: Slovenia v Norway
 FUBO 01 - 17:00	UEFA Nations League: Northern Ireland v Kosovo 
-FUBO 02 - 19:00	Boxing: Maxi Hughes v Kid Galahad
+FUBO 02 - 19:00 Boxing: Maxi Hughes v Kid Galahad
 FUBO 01 - 19:45	UEFA Nations League: Czech Republic v Portugal
 FUBO 03 - 19:45	UEFA Nations League: Spain v Switzerland 
 FUBO 04 - 19:45	UEFA Nations League: Serbia v Sweden 
 FUBO 05 - 19:45	UEFA Nations League: Scotland v Ireland Republic 
 
-EVENTS 01 - 16:00 Boxing: Floyd Mayweather v Mikuru Asakura
-EVENTS 02 - 18:00 Boxing: Joseph Parker v Joe Joyce
-EVENTS 03 - 19:00 Boxing: Maxi Hughes v Kid Galahad
+EVENTS 01 - 18:00 Boxing: Joseph Parker v Joe Joyce
+EVENTS 02 - 19:00 Boxing: Maxi Hughes v Kid Galahad
+
+Sun 25th
+
+EVENTS 01 - 04:00 Boxing: Floyd Mayweather v Mikuru Asakura
 
 
-EVENTS ARE UPDATED THROUGHOUT THE DAY. 
-PLEASE CHECK BACK BEFORE THE EVENT IS SCHEDULED TO START
 EVENTS ARE UPDATED THROUGHOUT THE DAY. 
 PLEASE CHECK BACK BEFORE THE EVENT IS SCHEDULED TO START
