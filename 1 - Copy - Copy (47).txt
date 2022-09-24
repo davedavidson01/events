@@ -1,12 +1,12 @@
 Sat 24th
 
-FUBO 03 - 17:00	UEFA Nations League: Slovenia v Norway
-FUBO 01 - 17:00	UEFA Nations League: Northern Ireland v Kosovo 
 FUBO 02 - 19:00 Boxing: Maxi Hughes v Kid Galahad
 FUBO 01 - 19:45	UEFA Nations League: Czech Republic v Portugal
 FUBO 03 - 19:45	UEFA Nations League: Spain v Switzerland 
 FUBO 04 - 19:45	UEFA Nations League: Serbia v Sweden 
 FUBO 05 - 19:45	UEFA Nations League: Scotland v Ireland Republic 
+FUBO 06 - 18:00 Boxing: Joseph Parker v Joe Joyce
+
 
 EVENTS 01 - 18:00 Boxing: Joseph Parker v Joe Joyce
 EVENTS 02 - 19:00 Boxing: Maxi Hughes v Kid Galahad
