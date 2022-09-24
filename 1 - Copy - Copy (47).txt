@@ -1,16 +1,16 @@
 Sat 24th
 
-FUBO 01 - 12:30	League One: Forest Green Rovers vs Exeter City 
-FUBO 02 - 13:30	WSL: Arsenal vs Tottenham Hotspur 
-FUBO 03 - 14:00	UEFA Nations League: Armenia vs Ukraine 
-FUBO 01 - 15:00	League One: Peterborough United vs Port Vale 
-FUBO 03 - 17:00	UEFA Nations League: Slovenia vs Norway
-FUBO 01 - 17:00	UEFA Nations League: Northern Ireland vs Kosovo 
-FUBO 02 - 19:00	Boxing: Hughes vs Galahad 
-FUBO 01 - 19:45	UEFA Nations League: Czech Republic vs Portugal
-FUBO 03 - 19:45	UEFA Nations League: Spain vs Switzerland 
-FUBO 04 - 19:45	UEFA Nations League: Serbia vs Sweden 
-FUBO 05 - 19:45	UEFA Nations League: Scotland vs Ireland Republic 
+FUBO 01 - 12:30	League One: Forest Green Rovers v Exeter City 
+FUBO 02 - 13:30	WSL: Arsenal v Tottenham Hotspur 
+FUBO 03 - 14:00	UEFA Nations League: Armenia v Ukraine 
+FUBO 01 - 15:00	League One: Peterborough United v Port Vale 
+FUBO 03 - 17:00	UEFA Nations League: Slovenia v Norway
+FUBO 01 - 17:00	UEFA Nations League: Northern Ireland v Kosovo 
+FUBO 02 - 19:00	Boxing: Maxi Hughes v Kid Galahad
+FUBO 01 - 19:45	UEFA Nations League: Czech Republic v Portugal
+FUBO 03 - 19:45	UEFA Nations League: Spain v Switzerland 
+FUBO 04 - 19:45	UEFA Nations League: Serbia v Sweden 
+FUBO 05 - 19:45	UEFA Nations League: Scotland v Ireland Republic 
 
 EVENTS 01 - 16:00 Boxing: Floyd Mayweather v Mikuru Asakura
 EVENTS 02 - 19:00 Boxing: Joseph Parker v Joe Joyce
