@@ -28,7 +28,7 @@ EVENTS 01 - 12:15 The FA Cup: Congleton Town v AFC Fylde
 EVENTS 02 - 14:30 Final Score
 EVENTS 02 - 23:55 MMA: Bellator 286 - Prelims
 EVENTS 03 - 02:55 MMA: Bellator 286
-EVENTS 04 - 02:55 MMA: Bellator 286
+EVENTS 04 - 23:55 MMA: Bellator 286
 EVENTS 05 - 01:00 BKFC 30 Hunt v Henry
 
 EVENTS ARE UPDATED THROUGHOUT THE DAY. 
