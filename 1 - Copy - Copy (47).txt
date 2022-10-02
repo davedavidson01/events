@@ -1,35 +1,6 @@
-Sat 1st
-
-FUBO 01 - 12:30	EPL: Arsenal vs Tottenham Hotspur 
-FUBO 06 - 12:30	EPL: Arsenal vs Tottenham Hotspur
-FUBO 03 - 12:30	SPL: Hearts vs Rangers 
-FUBO 07 - 14:00	Serie A: Napoli vs Torino 
-FUBO 01 - 15:00	EPL: Liverpool vs Brighton & Hove Albion 
-FUBO 06 - 15:00	EPL: Liverpool vs Brighton & Hove Albion 
-FUBO 02 - 15:00	EPL: AFC Bournemouth vs Brentford 
-FUBO 03 - 15:00	EPL: Crystal Palace vs Chelsea 
-FUBO 04 - 15:00	EPL: Fulham vs Newcastle United 
-FUBO 05 - 15:00	EPL: Southampton vs Everton 
-FUBO 08 - 15:00	EFL: Coventry City vs Middlesbrough 
-FUBO 07 - 17:00	Eredevise: Ajax vs Go Ahead Eagles 
-FUBO 08 - 17:00	Serie A: Internazionale vs Roma
-FUBO 01 - 17:30	EPL: West Ham United vs Wolverhampton Wanderers 
-FUBO 06 - 17:30	EPL: West Ham United vs Wolverhampton Wanderers 
-FUBO 03 - 17:30	La Liga: Sevilla vs Atletico Madrid 
-FUBO 08 - 19:45	Serie A: Empoli vs AC Milan 
-FUBO 03 - 20:00	La Liga: Mallorca vs Barcelona 
-FUBO 05 - 20:00	Ligue 1: PSG vs Nice 
-FUBO 01 - 21:00	UFC Fight Night: Dern vs. Yan, Prelims (ESPN+)
-FUBO 02 - 22:00	UFC Fight Night: Dern vs. Yan, Prelims (TSN)
-FUBO 01 - 00:00	UFC Fight Night: Dern vs. Yan, Main Card (ESPN+)
-FUBO 02 - 00:00	UFC Fight Night: Dern vs. Yan, Main Card (TSN)
-
-EVENTS 01 - 12:15 The FA Cup: Congleton Town v AFC Fylde
-EVENTS 02 - 14:30 Final Score
-EVENTS 02 - 23:55 MMA: Bellator 286 - Prelims
-EVENTS 03 - 02:55 MMA: Bellator 286
-EVENTS 04 - 23:55 MMA: Bellator 286
-EVENTS 05 - 01:00 BKFC 30 Hunt v Henry
+Sun 2nd
+FUBO 01 / 02 - 14:00	Manchester City vs Manchester United
+FUBO 01 / 02 - 16:30	Leeds United vs Aston Villa
 
 EVENTS ARE UPDATED THROUGHOUT THE DAY. 
 PLEASE CHECK BACK BEFORE THE EVENT IS SCHEDULED TO START
