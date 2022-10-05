@@ -1,13 +1,3 @@
-Tues 4th
-FUBO 01 - 17:45	Bayern München vs Viktoria Plzeň
-FUBO 02 - 17:45	Olympique Marseille vs Sporting CP
-FUBO 03 - 20:00	Liverpool vs Rangers
-FUBO 04 - 20:00	Ajax vs Napoli
-FUBO 05 - 20:00	Porto vs Bayer Leverkusen
-FUBO 06 - 20:00	Club Brugge vs Atlético Madrid
-FUBO 07 - 20:00	Internazionale vs Barcelona
-FUBO 08 - 20:00	Eintracht Frankfurt vs Tottenham Hotspur	
-
 Weds 5th
 FUBO 01 - 17:45	Salzburg vs Dinamo Zagreb
 FUBO 02 - 17:45	RB Leipzig vs Celtic
