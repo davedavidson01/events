@@ -11,17 +11,17 @@ FUBO 03 - 20:00 Midtjylland v Feyenoord
 FUBO 04 - 20:00 Sporting Braga v Union Saint-Gilloise
 FUBO 05 - 20:00 Hearts v Fiorentina
 
-EVENTS 01 - 17:45	Omonia Nicosia v Manchester United
-EVENTS 02 - 17:45	Anderlecht v West Ham United
-EVENTS 03 - 17:45	Molde v Shamrock Rovers
-EVENTS 04 - 17:45	Sheriff Tiraspol v Real Sociedad
-EVENTS 05 - 17:45	Sturm Graz v Lazio
+EVENTS 01 - 17:45 Omonia Nicosia v Manchester United
+EVENTS 02 - 17:45 Anderlecht v West Ham United
+EVENTS 03 - 17:45 Molde v Shamrock Rovers
+EVENTS 04 - 17:45 Sheriff Tiraspol v Real Sociedad
+EVENTS 05 - 17:45 Sturm Graz v Lazio
 
-EVENTS 02 - 20:00	Arsenal v Bodo/Glimt
-EVENTS 03 - 20:00	Roma v Real Betis
-EVENTS 04 - 20:00	Freiburg v Nantes
-EVENTS 05 - 20:00	Rennes v Dynamo Kyiv
-EVENTS 06 - 20:00	Hearts v Fiorentina
+EVENTS 02 - 20:00 Arsenal v Bodo/Glimt
+EVENTS 03 - 20:00 Roma v Real Betis
+EVENTS 04 - 20:00 Freiburg v Nantes
+EVENTS 05 - 20:00 Rennes v Dynamo Kyiv
+EVENTS 06 - 20:00 Hearts v Fiorentina
 
 EVENTS ARE UPDATED THROUGHOUT THE DAY. 
 PLEASE CHECK BACK BEFORE THE EVENT IS SCHEDULED TO START
