@@ -1,6 +1,4 @@
 Saturday 8th
-EVENTS 01 - 10:00 Nikita Tszyu vs Darkon Dryden
-
 FUBO 02 - 12:30 SPL: St. Johnstone v Celtic 					 
 FUBO 06 - 12:30 DP World Tour: Open de España - Round 3          
 FUBO 07 - 14:00 Serie A: Sassuolo v Internazionale               
@@ -20,7 +18,15 @@ FUBO 07 - 17:30 Bundesliga: Borussia Dortmund v Bayern München
 FUBO 02 - 20:00 Ligue 1: Reims v PSG                             
 FUBO 03 - 20:00 La Liga: Getafe v Real Madrid                    
 FUBO 06 - 23:55 WWE Extreme Rules                                
-FUBO 05 - 23:55 WWE Extreme Rules                                
+FUBO 05 - 23:55 WWE Extreme Rules                  
+
+EVENTS 01 - 23:55 WWE Extreme Rules
+EVENTS 02 - 03:00 Fundora v Ocampo
+EVENTS 03 - 17:00 Venator FC 12
+EVENTS 04 - 17:00 LNK Fight Night 21 Volkovs v Zile
+EVENTS 05 - 19:00 BKK Kickboxing Championship Lee v Eroglu
+EVENTS 06 - 20:00 Ansgar Fighting League
+EVENTS 07 - 22:00 Fight to Win 211 Pro
 
 Sunday 9th
 FUBO 01 - 14:00	Crystal Palace vs Leeds United
