@@ -5,6 +5,7 @@ FUBO 03 - 14:00	EPL: West Ham United vs Fulham
 FUBO 02 - 14:00	EPL: Crystal Palace vs Leeds United 
 FUBO 01 - 16:30	EPL: Arsenal vs Liverpool 
 FUBO 03 - 16:30	EPL: Arsenal vs Liverpool 
+FUBO 02 - 18:00 NFL: Redzone
 
 Monday 10th
 FUBO 01 - 20:00	Nottingham Forest vs Aston Villa
