@@ -1,38 +1,10 @@
-Saturday 8th
-FUBO 02 - 12:30 SPL: St. Johnstone v Celtic 					 
-FUBO 06 - 12:30 DP World Tour: Open de España - Round 3          
-FUBO 07 - 14:00 Serie A: Sassuolo v Internazionale               
-FUBO 01 - 15:00 EPL: Manchester City v Southampton               
-FUBO 05 - 15:00 EPL: Manchester City v Southampton               
-FUBO 02 - 15:00 EPL: Chelsea v Wolverhampton Wanderers           
-FUBO 03 - 15:00 EPL: Newcastle United v Brentford                
-FUBO 04 - 15:00 EPL: AFC Bournemouth v Leicester City            
-FUBO 08 - 15:00 EFL: Stoke City v Sheffield United               
-FUBO 09 - 15:15 La Liga: Atlético Madrid v Girona                
-FUBO 10 - 15:30 Eredivise: Volendam v Ajax                       
-FUBO 02 - 17:00 Serie A: AC Milan v Juventus                     
-FUBO 03 - 17:30 La Liga: Sevilla v Athletic Club                 
-FUBO 01 - 17:30 EPL: Brighton & Hove Albion v Tottenham Hotspur  
-FUBO 05 - 17:30 EPL: Brighton & Hove Albion v Tottenham Hotspur  
-FUBO 07 - 17:30 Bundesliga: Borussia Dortmund v Bayern München   
-FUBO 02 - 20:00 Ligue 1: Reims v PSG                             
-FUBO 03 - 20:00 La Liga: Getafe v Real Madrid                    
-FUBO 06 - 23:55 WWE Extreme Rules                                
-FUBO 05 - 23:55 WWE Extreme Rules                  
-
-EVENTS 01 - 23:55 WWE Extreme Rules
-EVENTS 02 - 03:00 Fundora v Ocampo
-EVENTS 03 - 17:00 Venator FC 12
-EVENTS 04 - 17:00 LNK Fight Night 21 Volkovs v Zile
-EVENTS 05 - 19:00 BKK Kickboxing Championship Lee v Eroglu
-EVENTS 06 - 20:00 Ansgar Fighting League
-EVENTS 07 - 22:00 Fight to Win 211 Pro
-
 Sunday 9th
-FUBO 01 - 14:00	Crystal Palace vs Leeds United
-FUBO 02 - 14:00	West Ham United vs Fulham
-FUBO 01 - 16:30	Arsenal vs Liverpool
-FUBO 01 - 19:00	Everton vs Manchester United
+FUBO 04 - 12:00	EFL: Huddersfield Town vs Hull City 
+FUBO 01 - 14:00	EPL: West Ham United vs Fulham 
+FUBO 03 - 14:00	EPL: West Ham United vs Fulham 
+FUBO 02 - 14:00	EPL: Crystal Palace vs Leeds United 
+FUBO 01 - 16:30	EPL: Arsenal vs Liverpool 
+FUBO 03 - 16:30	EPL: Arsenal vs Liverpool 
 
 Monday 10th
 FUBO 01 - 20:00	Nottingham Forest vs Aston Villa
