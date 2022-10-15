@@ -23,13 +23,14 @@ FUBO 02 - 02:00	Boxing: Wilder vs. Helenius
 
 EVENTS 01 - 12:30 Anstey Nomads v Chesterfield
 EVENTS 01 - 19:30 Savannah Marshall vs Claressa Shields
+EVENTS 06 - 19:30 Savannah Marshall vs Claressa Shields
 EVENTS 02 - 21:00 UFC Fight Night Grasso v Araujo
 
 SUNDAY 16TH
 EVENTS 03 - 00:30 Haney v Kambosos Jr
 EVENTS 04 - 01:00 BKFC 31 Richman v Doolittle
 EVENTS 05 - 02:00 Wilder v Helenius
-EVENTS 06 - 19:30 Savannah Marshall vs Claressa Shields
+
 
 FUBO 01 - 14:00	Aston Villa vs Chelsea
 FUBO 02 - 14:00	Leeds United vs Arsenal
