@@ -1,17 +1,35 @@
-FRIDAY 14th
-FUBO 01 - 20:00	Brentford vs Brighton & Hove Albion
-
 SATURDAY 15TH
-FUBO 01 - 12:30	Leicester City vs Crystal Palace
-FUBO 01 - 15:00	Fulham vs AFC Bournemouth
-FUBO 02 - 15:00	Wolverhampton Wanderers vs Nottingham Forest
-FUBO 01 - 17:30	Tottenham Hotspur vs Everton
+FUBO 01 - 12:30	EPL: Leicester City vs Crystal Palace 
+FUBO 02 - 12:30	EPL: Leicester City vs Crystal Palace 
+FUBO 03 - 12:30	EFL: Rotherham United vs Huddersfield Town 
+FUBO 07 - 14:30	Rugby League World Cup: England vs Samoa 
+FUBO 01 - 14:00	EPL: Fulham vs AFC Bournemouth 
+FUBO 01 - 14:00	EPL: Fulham vs AFC Bournemouth 
+FUBO 03 - 14:00	EPL: Wolverhampton Wanderers vs Nottingham Forest 
+FUBO 05 - 14:00	EFL: Bristol City vs Millwall 
+FUBO 06 - 17:00	Serie A: Torino vs Juventus 
+FUBO 07 - 17:00	MLS Playoffs: New York RB vs Cincinnati 
+FUBO 01 - 17:30	EPL: Tottenham Hotspur vs Everton 
+FUBO 02 - 17:30	EPL: Tottenham Hotspur vs Everton 
+FUBO 08 - 19:00	PGA Tour Champions: SAS Championship - Round 2 
+FUBO 04 - 19:30	Rugby League World Cup: Australia vs Fuji 
+FUBO 06 - 19:45	Serie A: Atalanta vs Sassuolo 
+FUBO 09 - 19:45	EFL: Watford vs Norwich City 
+FUBO 05 - 20:00	La Liga: Athletic Club vs Atlético Madrid 
+FUBO 07 - 20:00	MLS Playoffs: LA Galaxy vs Nashville SC 
+FUBO 03 - 21:00	UFC Fight Night: Grasso vs. Araujo 
+FUBO 07 - 02:00	Boxing: Wilder vs. Helenius 
+FUBO 02 - 02:00	Boxing: Wilder vs. Helenius 
 
+EVENTS 01 - 12:30 Anstey Nomads v Chesterfield
 EVENTS 01 - 19:30 Savannah Marshall vs Claressa Shields
+EVENTS 02 - 21:00 UFC Fight Night Grasso v Araujo
 
 SUNDAY 16TH
-EVENTS 02 - 01:00 BKFC 31 Denver
-EVENTS 03 - 02:00 Wilder v Helenius
+EVENTS 03 - 00:30 Haney v Kambosos Jr
+EVENTS 04 - 01:00 BKFC 31 Richman v Doolittle
+EVENTS 05 - 02:00 Wilder v Helenius
+EVENTS 06 - 19:30 Savannah Marshall vs Claressa Shields
 
 FUBO 01 - 14:00	Aston Villa vs Chelsea
 FUBO 02 - 14:00	Leeds United vs Arsenal
