@@ -3,10 +3,12 @@ FUBO 04 - 00:30	NBA: Boston Celtics vs Philadelphia 76ers
 FUBO 04 - 03:00	NBA: Los Angeles Lakers vs Golden State Warriors
 
 Wednesday 18th
-FUBO 01 - 19:30	Liverpool vs West Ham United
-FUBO 02 - 20:15	Manchester United vs Tottenham Hotspur
-FUBO 03 - 19:30	Brentford vs Chelsea
-FUBO 04 - 19:30	Newcastle United vs Everton
-FUBO 05 - 19:30	AFC Bournemouth vs Southampton
+FUBO 01 / EVENTS 01 - 19:30	Liverpool vs West Ham United
+FUBO 02 / EVENTS 02 - 20:15	Manchester United vs Tottenham Hotspur
+FUBO 03 / EVENTS 03 - 19:30	Brentford vs Chelsea
+FUBO 04 / EVENTS 04 - 19:30	Newcastle United vs Everton
+FUBO 05 / EVENTS 05 - 19:30	AFC Bournemouth vs Southampton
+
+EVENTS 06 - 19:30 EPL Goal Rush
 
 EVENTS ARE ADDED REGULARLY - CHECK BACK BEFORE YOUR EVENT STARTS
