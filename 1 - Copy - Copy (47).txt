@@ -1,13 +1,16 @@
-Tuesday 17th
-FUBO 04 - 00:30	NBA: Boston Celtics vs Philadelphia 76ers 
-FUBO 04 - 03:00	NBA: Los Angeles Lakers vs Golden State Warriors
-
 Wednesday 18th
-FUBO 01 / EVENTS 01 - 19:30	Liverpool vs West Ham United
-FUBO 02 / EVENTS 02 - 20:15	Manchester United vs Tottenham Hotspur
-FUBO 03 / EVENTS 03 - 19:30	Brentford vs Chelsea
-FUBO 04 / EVENTS 04 - 19:30	Newcastle United vs Everton
-FUBO 05 / EVENTS 05 - 19:30	AFC Bournemouth vs Southampton
+FUBO 06 - 17:00	DFB Pokal: Hannover 96 vs Borussia Dortmund 
+FUBO 07 - 18:15	SLC: Motherwell vs Celtic 
+FUBO 01 - 19:30	EPL: Liverpool vs West Ham United 
+FUBO 03 - 19:30	EPL: Brentford vs Chelsea (fuboTV) 
+FUBO 05 - 19:30	EPL: Newcastle United vs Everton 
+FUBO 06 - 19:30	EPL: AFC Bournemouth vs Southampton 
+FUBO 07 - 19:45	DFB Pokal: Augsburg vs Bayern München 
+FUBO 06 - 20:00	EFL: Millwall vs Watford 
+FUBO 08 - 20:00	La Liga: Elche vs Real Madrid 
+FUBO 02 - 20:15	EPL: Manchester United vs Tottenham Hotspur 
+
+EVENTS 06 - 19:30 EPL Goal Rush
 
 EVENTS 06 - 19:30 EPL Goal Rush
 
