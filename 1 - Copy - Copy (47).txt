@@ -2,9 +2,9 @@ Wednesday 18th
 FUBO 06 - 17:00	DFB Pokal: Hannover 96 vs Borussia Dortmund 
 FUBO 07 - 18:15	SLC: Motherwell vs Celtic 
 FUBO 01 - 19:30	EPL: Liverpool vs West Ham United 
-FUBO 03 - 19:30	EPL: Brentford vs Chelsea (fuboTV) 
-FUBO 05 - 19:30	EPL: Newcastle United vs Everton 
-FUBO 06 - 19:30	EPL: AFC Bournemouth vs Southampton 
+FUBO 03 - 19:30	EPL: Brentford vs Chelsea
+FUBO 04 - 19:30	EPL: Newcastle United vs Everton 
+FUBO 05 - 19:30	EPL: AFC Bournemouth vs Southampton 
 FUBO 07 - 19:45	DFB Pokal: Augsburg vs Bayern München 
 FUBO 06 - 20:00	EFL: Millwall vs Watford 
 FUBO 08 - 20:00	La Liga: Elche vs Real Madrid 
