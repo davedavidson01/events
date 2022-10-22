@@ -1,9 +1,44 @@
 SATURDAY 22ND
-FUBO TBC - 12:30	Nottingham Forest vs Liverpool
-FUBO TBC - 15:00	Manchester City vs Brighton & Hove Albion
-FUBO TBC - 15:00	Everton vs Crystal Palace
-FUBO TBC - 17:30	Chelsea vs Manchester United
+FUBO 01 - 08:00	T20 World Cup: Australia vs New Zealand 
+FUBO 01 - 12:00	T20 World Cup: Afghanistan vs England 
+FUBO 02 - 12:30	EPL: Nottingham Forest vs Liverpool 
+FUBO 03 - 12:30	EPL: Nottingham Forest vs Liverpool 
+FUBO 04 - 13:00	DP World Tour: Mallorca Golf Open - Round 3 
+FUBO 05 - 15:30	Rugby League World Cup: Fiji vs Italy 
+FUBO 02 - 15:00	EPL: Manchester City vs Brighton & Hove Albion 
+FUBO 03 - 15:00	EPL: Manchester City vs Brighton & Hove Albion 
+FUBO 06 - 15:00	EPL: Everton vs Crystal Palace 
+FUBO 07 - 15:00	EFL: Rotherham United vs Hull City 
+FUBO 08 - 15:00	UFC 280: Oliveira vs Makhachev, Early-prelims 
+FUBO 09 - 17:00	Serie A: Milan vs Monza 
+FUBO 01 - 17:00	UFC 280: Oliveira vs Makhachev, Prelims 
+FUBO 02 - 17:30	EPL: Chelsea vs Manchester United 
+FUBO 03 - 17:30	EPL: Chelsea vs Manchester United 
+FUBO 10 - 17:45	EDL: RKC Waalwijk vs Ajax 
+FUBO 01 - 19:00	UFC 280: Oliveira vs Makhachev 
+FUBO 05 - 19:30	Rugby League World Cup: England vs France 
+FUBO 09 - 19:45	Serie A: Fiorentina vs Internazionale 
+FUBO 10 - 19:55	F1: United States Grand Prix Practice 3 
+FUBO 08 - 19:00	La Liga: Real Madrid vs Sevilla 
+FUBO 01 - 20:55	F1: United States Grand Prix Qualifying 
 
-FUBO TBC - 15:00	UFC 280 PRELIMS & MAIN
+EVENTS 01 - 17:00 UFC 280 Oliveira v Makhachev Prelims
+EVENTS 02 - 19:00 UFC 280 Oliveira v Makhachev
+EVENTS 03 - 16:00 Brave CF 64 Kim v Bogatov
+EVENTS 04 - 17:00 LFNE 7
+EVENTS 05 - 18:00 Bunn v McCrory
+
+4k SPORTS: TEST 1 - 12:30 Nottingham Forest vs Liverpool
+4k SPORTS: TEST 2 - 12:30 Nottingham Forest vs Liverpool
+4k SPORTS: TEST 3 - 12:30 Nottingham Forest vs Liverpool
+4k SPORTS: TEST 4 - 12:30 Nottingham Forest vs Liverpool
+4k SPORTS: TEST 2 - 15:00 Everton vs Crystal Palace
+4k SPORTS: TEST 4 - 15:00 Exeter Chiefs v Saracens
+4k SPORTS: TEST 4 - 17:20 Torquay United v Altrincham
+4k SPORTS: TEST 1 - 17:30 Chelsea vs Manchester United
+4k SPORTS: TEST 2 - 17:30 Chelsea vs Manchester United
+4k SPORTS: TEST 3 - 17:30 Chelsea vs Manchester United
+4k SPORTS: TEST 1 - 20:00 F1 USA Practice 3
+4k SPORTS: TEST 1 - 23:00 F1 USA Qualifying
 
 EVENTS ARE ADDED REGULARLY - CHECK BACK BEFORE YOUR EVENT STARTS
