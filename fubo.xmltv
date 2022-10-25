@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="by Dave">
+ <channel id="1.fubo">   <display-name lang="en">FUBO 01</display-name>  </channel>
+ <channel id="2.fubo">   <display-name lang="en">FUBO 02</display-name>  </channel>
+ <channel id="3.fubo">   <display-name lang="en">FUBO 03</display-name>  </channel>
+ <channel id="4.fubo">   <display-name lang="en">FUBO 04</display-name>  </channel>
+ <channel id="5.fubo">   <display-name lang="en">FUBO 05</display-name>  </channel>
+ <channel id="6.fubo">   <display-name lang="en">FUBO 06</display-name>  </channel>
+ <channel id="7.fubo">   <display-name lang="en">FUBO 07</display-name>  </channel>
+ <channel id="8.fubo">   <display-name lang="en">FUBO 08</display-name>  </channel>
+ <channel id="9.fubo">   <display-name lang="en">FUBO 09</display-name>  </channel>
+ <channel id="10.fubo">   <display-name lang="en">FUBO 10</display-name>  </channel>
+
+
+  <programme start="20221025055500 +0000" stop="20221025065000 +0000" channel="1.fubo">
+     <title lang="en">UCL: Salzburg vs Chelsea</title>
+     <language>en</language>
+  </programme>
+  <programme start="20221025055500 +0000" stop="20221025065000 +0000" channel="2.fubo">
+     <title lang="en">UCL: Salzburg vs Chelsea</title>
+     <language>en</language>
+  </programme>
+  
+</tv>
