@@ -13,12 +13,20 @@
  <channel id="10.fubo">   <display-name lang="en">FUBO 10</display-name>  </channel>
 
 
-  <programme start="20221025055500 +0000" stop="20221025065000 +0000" channel="1.fubo">
+  <programme start="220221025164500 +0000" stop="220221025184500 +0000" channel="1.fubo">
      <title lang="en">UCL: Salzburg vs Chelsea</title>
      <language>en</language>
   </programme>
-  <programme start="20221025055500 +0000" stop="20221025065000 +0000" channel="2.fubo">
+  <programme start="220221025164500 +0000" stop="220221025184500 +0000" channel="2.fubo">
      <title lang="en">UCL: Salzburg vs Chelsea</title>
+     <language>en</language>
+  </programme>
+   <programme start="220221025190000 +0000" stop="220221025210000 +0000" channel="1.fubo">
+     <title lang="en">UCL: Borussia Dortmund vs Manchester City</title>
+     <language>en</language>
+  </programme>
+  <programme start="220221025190000 +0000" stop="220221025210000 +0000" channel="2.fubo">
+     <title lang="en">UCL: Borussia Dortmund vs Manchester City</title>
      <language>en</language>
   </programme>
   
