@@ -9,7 +9,7 @@ FUBO 02 - 20:00	Ajax vs Liverpool
 FUBO 03 - 20:00	Barcelona vs Bayern München
 FUBO 04 - 20:00	Tottenham Hotspur vs Sporting CP
 FUBO 05 - 20:00	Atlético Madrid vs Bayer Leverkusen
-FUBO 03 - 20:00	Eintracht Frankfurt vs Olympique Marseille
+FUBO 06 - 20:00	Eintracht Frankfurt vs Olympique Marseille
 FUBO 07 - 20:00	Napoli vs Rangers
 FUBO 08 - 20:00	EFL: Sheffield Wednesday vs Bristol Rovers
 
