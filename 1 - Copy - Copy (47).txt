@@ -2,11 +2,15 @@ Friday 28th
 FUBO 01 - 20:00 EFL: Birmingham City vs Queens Park Rangers
 
 Saturday 29th
-FUBO 01 - 12:30	Leicester City vs Manchester City
-FUBO 01 - 15:00	AFC Bournemouth vs Tottenham Hotspur
-FUBO 02 - 15:00	Brentford vs Wolverhampton Wanderers
-FUBO 03 - 15:00	Brighton & Hove Albion vs Chelsea
-FUBO 04 - 15:00	Crystal Palace vs Southampton
-FUBO 05 - 15:00	Newcastle United vs Aston Villa
-FUBO 01 - 17:30	Fulham vs Everton
-FUBO 01 - 19:45	Liverpool vs Leeds United
+FUBO 01 - EPL: 12:30	Leicester City vs Manchester City
+FUBO 01 - EPL: 15:00	AFC Bournemouth vs Tottenham Hotspur
+FUBO 02 - EPL: 15:00	Brentford vs Wolverhampton Wanderers
+FUBO 03 - EPL: 15:00	Brighton & Hove Albion vs Chelsea
+FUBO 04 - EPL: 15:00	Crystal Palace vs Southampton
+FUBO 05 - EPL: 15:00	Newcastle United vs Aston Villa
+FUBO 01 - EPL: 17:30	Fulham vs Everton
+FUBO 01 - EPL: 19:45	Liverpool vs Leeds United
+
+Sunday 29th
+FUBO 01 - 00:00 Boxing: Vasyl Lomachenko Vs Jamaine Ortiz
+FUBO 02 - 01:00 Boxing: Jake Paul Vs Anderson Silva
