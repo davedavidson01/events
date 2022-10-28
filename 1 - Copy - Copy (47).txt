@@ -10,7 +10,7 @@ FUBO 04 - 15:00	EPL: Crystal Palace vs Southampton
 FUBO 05 - 15:00	EPL: Newcastle United vs Aston Villa
 FUBO 02 - Boxing: Katie Taylor vs. Karen Carabajal
 FUBO 01 - 17:30	EPL: Fulham vs Everton
-FUBO 01 - EPL: 19:45	Liverpool vs Leeds United
+FUBO 01 - 19:45	EPL: Liverpool vs Leeds United
 
 Sunday 29th
 FUBO 01 - 00:00 Boxing: Vasyl Lomachenko Vs Jamaine Ortiz
