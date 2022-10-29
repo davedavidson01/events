@@ -1,6 +1,3 @@
-Friday 28th
-FUBO 01 - 20:00 EFL: Birmingham City vs Queens Park Rangers
-
 Saturday 29th
 FUBO 01 - 12:30 EPL: Leicester City vs Manchester City
 FUBO 02 - 12:30 EPL: Leicester City vs Manchester City
@@ -10,12 +7,27 @@ FUBO 02 - 15:00	EPL: Brentford vs Wolverhampton Wanderers
 FUBO 03 - 15:00	EPL: Brighton & Hove Albion vs Chelsea
 FUBO 04 - 15:00	EPL: Crystal Palace vs Southampton
 FUBO 05 - 15:00	EPL: Newcastle United vs Aston Villa
-FUBO 01 - 17:30	EPL: Fulham vs Everton
-FUBO 02 - 19:00 Boxing: Katie Taylor vs. Karen Carabajal
-FUBO 01 - 19:45	EPL: Liverpool vs Leeds United
-FUBO 03 - 22:00 UFC: Kattar v Allan
+FUBO 10 - 15:00	EFL: Norwich City vs Stoke City 
+FUBO 08 - 16:00	Ligue 1: PSG vs Troyes 
+FUBO 05 - 17:00	Serie A: Lecce vs Juventus 
+FUBO 01 - 17:30	EPL: Fulham vs Everton 
+FUBO 02 - 17:30	EPL: Fulham vs Everton 
+FUBO 03 - 17:55	F1: Mexico Grand Prix, Practice 3 
+FUBO 09 - 19:00	PGA Tour: Butterfield Bermuda Championship - Round 3 
+FUBO 03 - 19:00	Boxing: Taylor vs Carabajal 
+FUBO 01 - 19:45	EPL: Liverpool vs Leeds United 
+FUBO 02 - 19:45	EPL: Liverpool vs Leeds United 
+FUBO 04 - 19:45	Serie A: Internazionale vs Sampdoria 
+FUBO 05 - 20:00	La Liga: Valencia vs Barcelona 
+FUBO 09 - 20:00	F1: Mexican Grand Prix, Pre-Qualifying 
+FUBO 09 - 20:55	F1: Mexican Grand Prix Qualifying 
+FUBO 05 - 21:00	UFC Fight Night: Kattar vs Allen, Prelims 
+FUBO 04 - 22:00	Boxing: Diaz Jr. vs Zepeda, Prelims 
+FUBO 06 - 23:15	Boxing: Lomachenko vs. Ortiz 
 
-Sunday 29th
-FUBO 01 - 00:00 Boxing: Vasyl Lomachenko Vs Jamaine Ortiz
-FUBO 02 - 01:00 Boxing: Jake Paul Vs Anderson Silva
-FUBO 04 - 00:30 Bellator 287
+Sunday 30th
+FUBO 05 - 00:00	UFC Fight Night: Kattar vs Allen 
+FUBO 07 - 00:00	UFC Fight Night: Kattar vs Allen 
+FUBO 09 - 02:00	Boxing: Paul vs Silva 
+FUBO 02 - 02:00	Boxing: Paul vs Silva 
+FUBO 09 - 02:00	Boxing: Diaz Jr. vs Zepeda 
