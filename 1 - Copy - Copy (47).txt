@@ -15,3 +15,4 @@ FUBO 01 - 19:45	EPL: Liverpool vs Leeds United
 Sunday 29th
 FUBO 01 - 00:00 Boxing: Vasyl Lomachenko Vs Jamaine Ortiz
 FUBO 02 - 01:00 Boxing: Jake Paul Vs Anderson Silva
+FUBO 03 - 00:00 UFC: Kattar v Allan
