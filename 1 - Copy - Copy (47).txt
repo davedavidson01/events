@@ -11,3 +11,8 @@ FUBO 02 - 02:00	Boxing: Paul vs Silva
 FUBO 03 - 02:00	Boxing: Paul vs Silva 
 FUBO 09 - 02:00	Boxing: Paul vs Silva 
 FUBO 04 - 02:00	Boxing: Diaz Jr. vs Zepeda 
+
+FUBO 01 - 14:00	Arsenal vs Nottingham Forest
+FUBO 02 - 14:00	Arsenal vs Nottingham Forest
+FUBO 01 - 16:15	Manchester United vs West Ham United
+FUBO 02 - 16:15	Manchester United vs West Ham United
