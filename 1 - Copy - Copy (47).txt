@@ -1,7 +1,4 @@
 Saturday 29th
-FUBO 01 - 12:30 EPL: Leicester City vs Manchester City
-FUBO 02 - 12:30 EPL: Leicester City vs Manchester City
-FUBO 03 - 12:30 EFL: West Bromwich Albion vs Sheffield United
 FUBO 01 - 15:00	EPL: AFC Bournemouth vs Tottenham Hotspur
 FUBO 02 - 15:00	EPL: Brentford vs Wolverhampton Wanderers
 FUBO 03 - 15:00	EPL: Brighton & Hove Albion vs Chelsea
@@ -30,4 +27,4 @@ FUBO 05 - 00:00	UFC Fight Night: Kattar vs Allen
 FUBO 07 - 00:00	UFC Fight Night: Kattar vs Allen 
 FUBO 09 - 02:00	Boxing: Paul vs Silva 
 FUBO 02 - 02:00	Boxing: Paul vs Silva 
-FUBO 09 - 02:00	Boxing: Diaz Jr. vs Zepeda 
+FUBO 04 - 02:00	Boxing: Diaz Jr. vs Zepeda 
