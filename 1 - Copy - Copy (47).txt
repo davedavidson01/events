@@ -8,8 +8,8 @@ FUBO 02 - 15:00	EPL: Brentford vs Wolverhampton Wanderers
 FUBO 03 - 15:00	EPL: Brighton & Hove Albion vs Chelsea
 FUBO 04 - 15:00	EPL: Crystal Palace vs Southampton
 FUBO 05 - 15:00	EPL: Newcastle United vs Aston Villa
-FUBO 02 - Boxing: Katie Taylor vs. Karen Carabajal
 FUBO 01 - 17:30	EPL: Fulham vs Everton
+FUBO 02 - 19:00 Boxing: Katie Taylor vs. Karen Carabajal
 FUBO 01 - 19:45	EPL: Liverpool vs Leeds United
 FUBO 03 - 22:00 UFC: Kattar v Allan
 
