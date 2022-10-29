@@ -1,17 +1,4 @@
 Saturday 29th
-FUBO 08 - 16:00	Ligue 1: PSG vs Troyes 
-FUBO 05 - 17:00	Serie A: Lecce vs Juventus 
-FUBO 01 - 17:30	EPL: Fulham vs Everton 
-FUBO 02 - 17:30	EPL: Fulham vs Everton 
-FUBO 03 - 17:55	F1: Mexico Grand Prix, Practice 3 
-FUBO 09 - 19:00	PGA Tour: Butterfield Bermuda Championship - Round 3 
-FUBO 03 - 19:00	Boxing: Taylor vs Carabajal 
-FUBO 01 - 19:45	EPL: Liverpool vs Leeds United 
-FUBO 02 - 19:45	EPL: Liverpool vs Leeds United 
-FUBO 04 - 19:45	Serie A: Internazionale vs Sampdoria 
-FUBO 05 - 20:00	La Liga: Valencia vs Barcelona 
-FUBO 09 - 20:00	F1: Mexican Grand Prix, Pre-Qualifying 
-FUBO 09 - 20:55	F1: Mexican Grand Prix Qualifying 
 FUBO 05 - 21:00	UFC Fight Night: Kattar vs Allen, Prelims 
 FUBO 04 - 22:00	Boxing: Diaz Jr. vs Zepeda, Prelims 
 FUBO 06 - 23:15	Boxing: Lomachenko  Ortiz 
@@ -19,6 +6,8 @@ FUBO 06 - 23:15	Boxing: Lomachenko  Ortiz
 Sunday 30th
 FUBO 05 - 00:00	UFC Fight Night: Kattar vs Allen 
 FUBO 07 - 00:00	UFC Fight Night: Kattar vs Allen 
-FUBO 09 - 02:00	Boxing: Paul vs Silva 
+FUBO 01 - 02:00	Boxing: Paul vs Silva 
 FUBO 02 - 02:00	Boxing: Paul vs Silva 
+FUBO 03 - 02:00	Boxing: Paul vs Silva 
+FUBO 09 - 02:00	Boxing: Paul vs Silva 
 FUBO 04 - 02:00	Boxing: Diaz Jr. vs Zepeda 
