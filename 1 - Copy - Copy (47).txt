@@ -10,4 +10,4 @@ FUBO 04 - 17:00 NFL: RedZone - Week 7
 FUBO 03 - 19:45 Serie A: Torino vs AC Milan
 FUBO 05 - 20:00 F1: Mexican Grand Prix
 FUBO 01 - 00:20 NFL: Green Bay Packers @ Buffalo Bills
-FUBO 01 - 00:20 NFL: Green Bay Packers @ Buffalo Bills
+FUBO 02 - 00:20 NFL: Green Bay Packers @ Buffalo Bills
