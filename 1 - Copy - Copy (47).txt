@@ -1,8 +1,13 @@
 Sunday 30th
 
 FUBO 03 - 12:00 Livingston vs Celtic
-
-FUBO 01 - 14:00	Arsenal vs Nottingham Forest
-FUBO 02 - 14:00	Arsenal vs Nottingham Forest
-FUBO 01 - 16:15	Manchester United vs West Ham United
-FUBO 02 - 16:15	Manchester United vs West Ham United
+FUBO 01 - 14:00	EPL: Arsenal vs Nottingham Forest
+FUBO 02 - 14:00	EPL: Arsenal vs Nottingham Forest
+FUBO 03 - 15:15 La Liga: Real Madrid vs Girona
+FUBO 01 - 16:15	EPL: Manchester United vs West Ham United
+FUBO 02 - 16:15	EPL: Manchester United vs West Ham United
+FUBO 04 - 17:00 NFL: RedZone - Week 7
+FUBO 03 - 19:45 Serie A: Torino vs AC Milan
+FUBO 05 - 20:00 F1: Mexican Grand Prix
+FUBO 01 - 00:20 NFL: Green Bay Packers @ Buffalo Bills
+FUBO 01 - 00:20 NFL: Green Bay Packers @ Buffalo Bills
