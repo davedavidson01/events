@@ -1,13 +1,3 @@
-Tuesday 1st
-FUBO 01 - 17:45	Porto vs Atlético Madrid
-FUBO 02 - 17:45	Bayer Leverkusen vs Club Brugge
-FUBO 03 - 20:00	Liverpool vs Napoli
-FUBO 04 - 20:00	Rangers vs Ajax
-FUBO 05 - 20:00	Bayern München vs Internazionale
-FUBO 06 - 20:00	Viktoria Plzeň vs Barcelona
-FUBO 07 - 20:00	Sporting CP vs Eintracht Frankfurt
-FUBO 08 - 20:00	Olympique Marseille vs Tottenham Hotspur
-
 Wednesday 2nd
 FUBO 01 - 17:45	Real Madrid vs Celtic
 FUBO 02 - 17:45	Shakhtar Donetsk vs RB Leipzig
