@@ -1,15 +1,4 @@
 Sunday 6th
-FUBO 01 - 12:00	EPL: Chelsea vs Arsenal
-FUBO 02 - 12:00	EPL: Chelsea vs Arsenal 720p
-FUBO 09 - 12:00	SPL: St. Johnstone vs Rangers 720p
-FUBO 05 - 12:00	Ligue 1: Lorient vs PSG
-FUBO 10 - 12:30	FA Cup: Wrexham vs Oldham Athletic
-FUBO 01 - 14:00	EPL: Aston Villa vs Manchester United
-FUBO 02 - 14:00	EPL: Aston Villa vs Manchester United 720p
-FUBO 03 - 14:00	EPL: West Ham United vs Crystal Palace
-FUBO 05 - 14:00	EPL: Southampton vs Newcastle United
-FUBO 06 - 14:00	FA Cup: Woking vs Oxford United
-FUBO 07 - 14:00	FA Cup: Curzon Ashton vs Cambridge United
 FUBO 08 - 15:45	EDL: Ajax vs PSV
 FUBO 01 - 16:30 Tottenham Hotspur vs Liverpool
-FUBO 01 - 16:30 Tottenham Hotspur vs Liverpool
+FUBO 02 - 16:30 Tottenham Hotspur vs Liverpool
