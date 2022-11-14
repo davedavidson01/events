@@ -1,23 +1,10 @@
-Saturday 12th
-FUBO 01 - 12:30	EPL: Manchester City vs Brentford
-FUBO 01 - 15:00	EPL: Liverpool vs Southampton
-FUBO 02 - 15:00	EPL: AFC Bournemouth vs Everton
-FUBO 03 - 15:00	EPL: Nottingham Forest vs Crystal Palace
-FUBO 04 - 15:00	EPL: Tottenham Hotspur vs Leeds United
-FUBO 05 - 15:00	EPL: West Ham United vs Leicester City
-FUBO 06 - 15:00 EFL: Hull City v Reading 
-FUBO 07 - 15:15 RUGBY: England v Japan
-FUBO 01 - 17:30	EPL: Newcastle United vs Chelsea
-FUBO 04 - 17:30 RUGBY: Wales v Argentina 
-FUBO 01 - 19:45	EPL: Wolverhampton Wanderers vs Arsenal
-FUBO 01 - 23:00 MMA: UFC 281
-FUBO 02 - 19:00 Boxing: Jonas v Dicaire
-FUBO 02 - 22:00 Boxing: Hatton v Barrera
+Tuesday 15th
+FUBO 01 - 19:45 FA Cup: Derby County vs Torquay United
 
-Sunday 13th
-FUBO 04 - 00:00	Boxing: Phinn vs. Belujsky 
-FUBO 05 - 00:30	Boxing: Love vs. Spark
-FUBO 01 - 14:00	EPL: Brighton & Hove Albion vs Aston Villa
-FUBO 01 - 16:30	EPL: Fulham vs Manchester United
-FUBO 01 - 19:00 Boxing: Mayweather v Deji
+Wednesday 16th
+FUBO 01 - 17:00	Friendly: Turkey vs Scotland
+FUBO 02 - 19:45 FA Cup: Salford City vs Peterborough United
+FUBO 03 - 19:45	Friendly: Albania vs Italy
 
+Thursday 17th
+FUBO 01 - 19:45	Friendly: Ireland Republic vs Norway
