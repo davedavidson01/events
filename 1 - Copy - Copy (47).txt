@@ -1,23 +1,33 @@
-13:00	England vs Iran
+Nov 22nd
+Tuesday 22nd
+10:00 Argentina v Saudi Arabia	
 FUBO 01
 World Cup 01
-World Cup 03
+World Cup 04
 World Cup 05
-NowHK 4K
 Astro Supersport 4K
 Fox Sports 4K
+
+13:00 Denmark v Tunisia
+FUBO 01
+World Cup 01
+World Cup 04
+World Cup 05
+Astro Supersport 4K
+Fox Sports 4K
+
+16:00 Mexico v Poland
+FUBO 01
+World Cup 02
+World Cup 03
+World Cup 05
+Astro Supersport 4K
 BBC Sport 4K
 
-16:00	Senegal vs Netherlands
+19:00 France v Australia
 FUBO 01
 World Cup 02
-World Cup 04
+World Cup 03
 World Cup 05
 Astro Supersport 4K
-
-19:00	USA vs Wales
-FUBO 01
-World Cup 02
-World Cup 04
-World Cup 05
-Astro Supersport 4K
+BBC Sport 4K
