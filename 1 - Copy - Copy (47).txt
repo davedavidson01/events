@@ -1,17 +1,23 @@
-Sunday 20th
-FUBO 01 - 12:30	F1: Abu Dhabi Grand Prix Sunday 
-FUBO 01 - 13:55	F1: Abu Dhabi Grand Prix 
-FUBO 04 - 14:00	Grand Slam of Darts: Semi-Finals 
-FUBO 02 - 15:00	Rugby Union: France vs Japan 
-FUBO 01 - 15:00	FIFA World Cup 2022: Opening Ceremony 
-FUBO 03 - 15:00	FIFA World Cup 2022: Opening Ceremony 
-FUBO 01 - 16:00	FIFA World Cup 2022: Qatar vs Ecuador 
-FUBO 03 - 16:00	FIFA World Cup 2022: Qatar vs Ecuador 
-FUBO 02 - 18:00	NFL RedZone - Week 11 
-FUBO 05 - 18:00	NFL RedZone - Week 11 
-FUBO 04 - 19:00	Grand Slam of Darts: Finals 
+13:00	England vs Iran
+FUBO 01
+World Cup 01
+World Cup 03
+World Cup 05
+NowHK 4K
+Astro Supersport 4K
+Fox Sports 4K
+BBC Sport 4K
 
-WORLD CUP 01 - 16:00 FIFA World Cup 2022: Qatar vs Ecuador 
-WORLD CUP 03 - 16:00 FIFA World Cup 2022: Qatar vs Ecuador 
-WORLD CUP 05 - 16:00 FIFA World Cup 2022: Qatar vs Ecuador
+16:00	Senegal vs Netherlands
+FUBO 01
+World Cup 02
+World Cup 04
+World Cup 05
+Astro Supersport 4K
 
+19:00	USA vs Wales
+FUBO 01
+World Cup 02
+World Cup 04
+World Cup 05
+Astro Supersport 4K
