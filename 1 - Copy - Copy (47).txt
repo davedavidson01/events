@@ -1,30 +1,71 @@
-23/112022 10:00 - Morocco v Croatia
-FUBO 01
-World Cup 01
-World Cup 04
-World Cup 05
-Astro Supersport 4K
-Fox Sport 4K
+23/11/2022 10:00 - Morocco v Croatia
+FUBO 01 / World Cup 01 / World Cup 04 / World Cup 05 / Astro Supersport 4K / Fox Sports 4K / NowHK 4K
 
-23112022 13:00 - Germany v Japan
-FUBO 01
-World Cup 01
-World Cup 04
-World Cup 05
-Astro Supersport 4K
-Fox Sport 4K
+23/11/2022 13:00 - Germany v Japan
+FUBO 01 / World Cup 01 / World Cup 04 / World Cup 05 / Astro Supersport 4K / Fox Sports 4K / NowHK 4K
 
-23112022 16:00 - Spain v Costa Rica
-FUBO 01
-World Cup 02
-World Cup 04
-World Cup 05
-Astro Supersport 4K
+23/11/2022 16:00 - Spain v Costa Rica
+FUBO 01 / World Cup 02 / World Cup 04 / World Cup 05 / Astro Supersport 4K
 
-23112022 19:00 - Belgium v Canada
-FUBO 01
-World Cup 02
-World Cup 03
-World Cup 05
-Astro Supersport 4K
-BBC Sport 4K
+23/11/2022 19:00 - Belgium v Canada
+FUBO 01 / World Cup 02 / World Cup 03 / World Cup 05 / Astro Supersport 4K / BBC Sport 4K
+
+24/11/2022 10:00 - Switzerland v Cameroon
+FUBO 01 / World Cup 01 / World Cup 04 / World Cup 05 / Astro Supersport 4K / Fox Sports 4K
+
+24/11/2022 13:00 - Uruguay v South Korea
+FUBO 01 / World Cup 01 / World Cup 03 / World Cup 05 / Astro Supersport 4K / BBC Sport 4K / Fox Sports 4K
+
+24/11/2022 16:00 - Portugal v Ghana
+FUBO 01 / World Cup 02 / World Cup 04 / World Cup 05 / Astro Supersport 4K
+
+24/11/2022 19:00 - Brazil v Serbia
+FUBO 01 / World Cup 02 / World Cup 03 / World Cup 05 / Astro Supersport 4K / BBC Sport 4K
+
+25/11/2022 10:00 - Wales v Iran
+FUBO 01 / World Cup 01 / World Cup 03 / World Cup 05 / Astro Supersport 4K / BBC Sport 4K / Fox Sports 4K
+
+25/11/2022 13:00 - Qatar v Senegal
+FUBO 01 / World Cup 01 / World Cup 03 / World Cup 05 / Astro Supersport 4K / BBC Sport 4K / Fox Sports 4K
+
+25/11/2022 16:00 - Netherlands v Ecuador
+FUBO 01 / World Cup 02 / World Cup 04 / World Cup 05 / Astro Supersport 4K
+
+25/11/2022 19:00 - England v USA
+FUBO 01 / World Cup 02 / World Cup 04 / World Cup 05 / Astro Supersport 4K
+
+26/11/2022 10:00 - Tunisia v Australia
+FUBO 01 / World Cup 01 / World Cup 03 / World Cup 05 / Astro Supersport 4K / BBC Sport 4K / Fox Sports 4K
+
+26/11/2022 13:00 - Poland v Saudi Arabia
+FUBO 01 / World Cup 01 / World Cup 04 / World Cup 05 / Astro Supersport 4K / Fox Sports 4K
+
+26/11/2022 16:00 - France v Denmark
+FUBO 01 / World Cup 02 / World Cup 04 / World Cup 05 / Astro Supersport 4K
+
+26/11/2022 19:00 - Argentina v Mexico
+FUBO 01 / World Cup 02 / World Cup 04 / World Cup 05 / Astro Supersport 4K
+
+27/11/2022 10:00 - Japan v Costa Rica
+FUBO 01 / World Cup 01 / World Cup 04 / World Cup 05 / Astro Supersport 4K / Fox Sports 4K
+
+27/11/2022 13:00 - Belgium v Morocco
+FUBO 01 / World Cup 01 / World Cup 03 / World Cup 05 / Astro Supersport 4K / BBC Sport 4K / Fox Sports 4K
+
+27/11/2022 16:00 - Croatia v Canada
+FUBO 01 / World Cup 02 / World Cup 03 / World Cup 05 / Astro Supersport 4K / BBC Sport 4K
+
+27/11/2022 19:00 - Spain v Germany
+FUBO 01 / World Cup 02 / World Cup 03 / World Cup 05 / Astro Supersport 4K / BBC Sport 4K
+
+28/11/2022 10:00 - Cameroon v Serbia
+FUBO 01 / World Cup 01 / World Cup 04 / World Cup 05 / Astro Supersport 4K / Fox Sports 4K
+
+28/11/2022 13:00 - South Korea v Ghana
+FUBO 01 / World Cup 01 / World Cup 03 / World Cup 05 / Astro Supersport 4K / BBC Sport 4K / Fox Sports 4K
+
+28/11/2022 16:00 - Brazil v Switzerland
+FUBO 01 / World Cup 02 / World Cup 04 / World Cup 05 / Astro Supersport 4K
+
+28/11/2022 19:00 - Portugal v Uruguay
+FUBO 01 / World Cup 02 / World Cup 04 / World Cup 05 / Astro Supersport 4K
